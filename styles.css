@@ -71,13 +71,13 @@ p{
 
 .bottom-cloud {
   position: absolute;
-  left: 60px;
+  left: 80px;
   bottom: 300px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 60px;
+  right: 80px;
   top: 50px;
 }
 .skill-row{
